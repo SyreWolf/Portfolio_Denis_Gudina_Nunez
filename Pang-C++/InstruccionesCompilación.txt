@@ -1,0 +1,36 @@
+• Abrimos el proyecto en Visual Studio, hacemos click derecho sobre la solución y
+seleccionamos “Propiedades”.
+
+• Dentro de la ventana que se abre accedemos a la pestaña “C/C++”, y
+seleccionamos el apartado “General”.
+
+• Dentro de “Directorios de inclusión adicionales” hemos de introducir la
+dirección de las carpetas “include” de las librerías de manera que debe quedar
+algo así:
+
+	o “localización donde esté guardada la carpeta del proyecto”\Pang-C++\OpenGL\freeglut\include
+	o “localización donde esté guardada la carpeta del proyecto”\Pang-C++\OpenGL\glew2.1.0\include
+
+
+• A continuación, vamos a la pestaña “Vinculador” de la ventana, y dentro de la
+pestaña accedemos a la sección “General”.
+
+• Dentro de “Directorios de bibliotecas adicionales” hemos de introducir la
+dirección de las librerías de manera que debe quedar algo así:
+
+	o “localización donde esté guardada la carpeta del proyecto”\Pang-C++\OpenGL\freeglut\lib
+	o “localización donde esté guardada la carpeta del proyecto”\Pang-C++\OpenGL\glew2.1.0\lib\Release\Win32
+
+
+• Por último, se han de indicar los archivos de librería, así que nos dirigimos a la
+sección “Entrada” dentro de la pestaña “Vinculador”.
+
+• Dentro de la sección “Dependencias adicionales” hemos de introducir el
+nombre de los siguientes archivos:
+
+	o freeglut.lib
+	o glew32.lib
+
+
+• Después de esto hacemos click en “Aplicar” y luego en “Aceptar”, cerrando la
+ventana de “Propiedades”.

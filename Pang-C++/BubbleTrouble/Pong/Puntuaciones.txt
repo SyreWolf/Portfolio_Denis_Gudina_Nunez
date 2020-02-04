@@ -1,0 +1,6 @@
+Modo tutorial----100
+Modo facil----300
+Modo medio----300
+Modo dificil----500
+Modo pesadilla----600
+Modo pesadilla----2800Modo facil----300

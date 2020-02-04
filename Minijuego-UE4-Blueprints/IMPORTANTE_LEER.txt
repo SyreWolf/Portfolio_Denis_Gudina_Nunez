@@ -1,0 +1,9 @@
+En este proyecto realicé un pequeño minijuego en Unreal Engine 4
+para aplicar algunos conceptos aprendidos (comunicación directa,
+por emisión de eventos, por interfaz, variables, funciones, etc)
+sobre el sistema de Blueprints. El minijuego se basa en recoger 
+tres monedas localizadas en puntos aleatorios del mapa. El suelo 
+es lava que daña al jugador al entrar en contacto con ella. Hay 
+un botiquín que nos permite recuperar salud. Al cumplir el objetivo
+se reestablece nuestra salud, no recibimos daños y las plataformas 
+móviles del escenario se destruyen. Espero que os guste :)

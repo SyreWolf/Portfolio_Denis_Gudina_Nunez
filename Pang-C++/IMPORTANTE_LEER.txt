@@ -1,0 +1,4 @@
+En este proyecto, para poner en práctica diferentes 
+conocimientos de C++, me propuse hacer una versión 
+de un sencillo juego de mi infancia: Pang. Espero que 
+os guste :)

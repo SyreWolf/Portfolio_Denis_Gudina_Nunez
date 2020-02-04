@@ -1,0 +1,438 @@
+fileFormatVersion: 2
+guid: 6cb8ea1605f12304dab156d1268ae365
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Axel
+    100002: Base Human
+    100004: Base HumanHead
+    100006: Base HumanLCalf
+    100008: Base HumanLCollarbone
+    100010: Base HumanLDigit11
+    100012: Base HumanLDigit12
+    100014: Base HumanLDigit21
+    100016: Base HumanLDigit22
+    100018: Base HumanLFoot
+    100020: Base HumanLForearm
+    100022: Base HumanLPalm
+    100024: Base HumanLPlatform
+    100026: Base HumanLThigh
+    100028: Base HumanLUpperarm
+    100030: Base HumanNeck1
+    100032: Base HumanNeck2
+    100034: Base HumanPelvis
+    100036: Base HumanRCalf
+    100038: Base HumanRCollarbone
+    100040: Base HumanRDigit11
+    100042: Base HumanRDigit12
+    100044: Base HumanRDigit21
+    100046: Base HumanRDigit22
+    100048: Base HumanRFoot
+    100050: Base HumanRForearm
+    100052: Base HumanRibcage
+    100054: Base HumanRIKTarget
+    100056: Base HumanRPalm
+    100058: Base HumanRPlatform
+    100060: Base HumanRThigh
+    100062: Base HumanRUpperarm
+    100064: Base HumanSpine1
+    100066: Base HumanSpine2
+    100068: Base HumanSpine3
+    100070: Base HumanSpine4
+    100072: Cabeza
+    100074: ControllerCejas
+    100076: ControllerFonemaI
+    100078: ControllerFonemaKY
+    100080: ControllerFonemaL
+    100082: ControllerFonemaU
+    100084: ControllerGrito
+    100086: ControllerParpadeo
+    100088: ControllerRespiracion
+    100090: Dummy002
+    100092: Dummy003
+    100094: Dummy004
+    100096: Dummy005
+    100098: Dummy006
+    100100: Dummy007
+    100102: Dummy008
+    100104: Dummy009
+    100106: ExposeTransform001
+    100108: ExposeTransform002
+    100110: ExposeTransform003
+    100112: ExposeTransform004
+    100114: ExposeTransform005
+    100116: ExposeTransform006
+    100118: ExposeTransform007
+    100120: ExposeTransform008
+    100122: HuesoCejas
+    100124: HuesoFonemaI
+    100126: HuesoFonemaKY
+    100128: HuesoFonemaL
+    100130: HuesoFonemaU
+    100132: HuesoGrito
+    100134: HuesoParpadeo
+    100136: HuesoRespiracion
+    100138: NUEVO OJO DERECHO
+    100140: NUEVO OJO IZQUIERDO
+    100142: //RootNode
+    100144: Sword
+    400000: Axel
+    400002: Base Human
+    400004: Base HumanHead
+    400006: Base HumanLCalf
+    400008: Base HumanLCollarbone
+    400010: Base HumanLDigit11
+    400012: Base HumanLDigit12
+    400014: Base HumanLDigit21
+    400016: Base HumanLDigit22
+    400018: Base HumanLFoot
+    400020: Base HumanLForearm
+    400022: Base HumanLPalm
+    400024: Base HumanLPlatform
+    400026: Base HumanLThigh
+    400028: Base HumanLUpperarm
+    400030: Base HumanNeck1
+    400032: Base HumanNeck2
+    400034: Base HumanPelvis
+    400036: Base HumanRCalf
+    400038: Base HumanRCollarbone
+    400040: Base HumanRDigit11
+    400042: Base HumanRDigit12
+    400044: Base HumanRDigit21
+    400046: Base HumanRDigit22
+    400048: Base HumanRFoot
+    400050: Base HumanRForearm
+    400052: Base HumanRibcage
+    400054: Base HumanRIKTarget
+    400056: Base HumanRPalm
+    400058: Base HumanRPlatform
+    400060: Base HumanRThigh
+    400062: Base HumanRUpperarm
+    400064: Base HumanSpine1
+    400066: Base HumanSpine2
+    400068: Base HumanSpine3
+    400070: Base HumanSpine4
+    400072: Cabeza
+    400074: ControllerCejas
+    400076: ControllerFonemaI
+    400078: ControllerFonemaKY
+    400080: ControllerFonemaL
+    400082: ControllerFonemaU
+    400084: ControllerGrito
+    400086: ControllerParpadeo
+    400088: ControllerRespiracion
+    400090: Dummy002
+    400092: Dummy003
+    400094: Dummy004
+    400096: Dummy005
+    400098: Dummy006
+    400100: Dummy007
+    400102: Dummy008
+    400104: Dummy009
+    400106: ExposeTransform001
+    400108: ExposeTransform002
+    400110: ExposeTransform003
+    400112: ExposeTransform004
+    400114: ExposeTransform005
+    400116: ExposeTransform006
+    400118: ExposeTransform007
+    400120: ExposeTransform008
+    400122: HuesoCejas
+    400124: HuesoFonemaI
+    400126: HuesoFonemaKY
+    400128: HuesoFonemaL
+    400130: HuesoFonemaU
+    400132: HuesoGrito
+    400134: HuesoParpadeo
+    400136: HuesoRespiracion
+    400138: NUEVO OJO DERECHO
+    400140: NUEVO OJO IZQUIERDO
+    400142: //RootNode
+    400144: Sword
+    2100000: 15 - Default
+    2100002: 21 - Default
+    2100004: 16 - Default
+    2100006: 19 - Default
+    2100008: 20 - Default
+    2100010: 18 - Default
+    2100012: 17 - Default
+    2100014: 14 - Default
+    2100016: 10 - Default
+    2100018: 13 - Default
+    2100020: GORRON
+    2100022: 24 - Default
+    2100024: 23 - Default
+    2100026: 11 - Default
+    2100028: 22 - Default
+    2100030: 'Material #25'
+    2100032: 03 - Default
+    2100034: 'Material #1405'
+    2300000: Sword
+    3300000: Sword
+    4300000: Axel
+    4300002: NUEVO OJO IZQUIERDO
+    4300004: NUEVO OJO DERECHO
+    4300006: Cabeza
+    4300008: Sword
+    6400000: Sword
+    7400000: Walk
+    7400002: BackKick
+    7400004: Run
+    7400006: Attack
+    7400008: Idle
+    7400010: Taunt
+    9500000: //RootNode
+    13700000: Axel
+    13700002: Cabeza
+    13700004: NUEVO OJO DERECHO
+    13700006: NUEVO OJO IZQUIERDO
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 87
+      lastFrame: 114
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BackKick
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 85
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 198
+      lastFrame: 212
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack
+      takeName: Take 001
+      firstFrame: 248
+      lastFrame: 343
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 357
+      lastFrame: 382.75
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Taunt
+      takeName: Take 001
+      firstFrame: 395
+      lastFrame: 419
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

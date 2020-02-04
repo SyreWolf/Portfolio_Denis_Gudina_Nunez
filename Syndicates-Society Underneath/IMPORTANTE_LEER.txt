@@ -1,0 +1,5 @@
+En este proyecto me propuse hacer el Concept Art y desarrollo 3D
+de un personaje y un escenario de temática libre. El 3D incluye
+modelado, rigging, skinning, animación y morphers faciales. Además,
+todo ello fue implementado en Unity, añadiendo diferentes efectos,
+controles de teclado y físicas de telas. Espero que os guste :)

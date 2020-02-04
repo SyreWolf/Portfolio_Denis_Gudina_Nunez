@@ -1,0 +1,74 @@
+﻿  Bala.cpp
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\bala.cpp(9): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\bala.cpp(11): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  camara.cpp
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\camara.h(22): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\camara.h(23): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\camara.h(24): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\camara.h(25): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\camara.h(37): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\camara.h(38): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\camara.h(39): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\camara.h(40): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  cilindro.cpp
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\cilindro.cpp(14): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\cilindro.cpp(15): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  cubo.cpp
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\cubo.cpp(7): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\cubo.cpp(9): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  escena.cpp
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\pared.h(16): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\pared.h(17): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\pared.h(18): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\pared.h(19): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\pared.h(20): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  esfera.cpp
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\esfera.cpp(8): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\esfera.cpp(10): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Jugador.cpp
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\jugador.cpp(9): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\jugador.cpp(11): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  main.cpp
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\pared.h(16): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\pared.h(17): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\pared.h(18): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\pared.h(19): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\pared.h(20): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\camara.h(22): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\camara.h(23): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\camara.h(24): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\camara.h(25): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\camara.h(37): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\camara.h(38): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\camara.h(39): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\camara.h(40): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\main.cpp(174): warning C4101: 'x': variable local sin referencia
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\main.cpp(324): warning C4805: '!=': combinación no segura del tipo 'double' y el tipo 'bool' en la operación
+  pared.cpp
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\pared.h(16): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\pared.h(17): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\pared.h(18): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\pared.h(19): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\pared.h(20): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Pelota.cpp
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\pelota.cpp(9): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\denis\desktop\practica_final_denis_gudiña_nuñez\bubbletrouble\pong\pelota.cpp(11): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  solido.cpp
+  vector3d.cpp
+Bala.obj : error LNK2001: símbolo externo __imp_glutSolidSphere sin resolver
+cubo.obj : error LNK2001: símbolo externo __imp_glutSolidCube sin resolver
+main.obj : error LNK2001: símbolo externo __imp_glutReshapeFunc sin resolver
+main.obj : error LNK2001: símbolo externo __imp___glutCreateWindowWithExit sin resolver
+main.obj : error LNK2001: símbolo externo __imp_glutMouseFunc sin resolver
+main.obj : error LNK2001: símbolo externo __imp___glutInitWithExit sin resolver
+main.obj : error LNK2001: símbolo externo __imp_glutPostRedisplay sin resolver
+main.obj : error LNK2001: símbolo externo __imp_glutKeyboardFunc sin resolver
+main.obj : error LNK2001: símbolo externo __imp_glutIdleFunc sin resolver
+main.obj : error LNK2001: símbolo externo __imp_glutInitDisplayMode sin resolver
+main.obj : error LNK2001: símbolo externo __imp_glutDisplayFunc sin resolver
+main.obj : error LNK2001: símbolo externo __imp_glutMainLoop sin resolver
+main.obj : error LNK2001: símbolo externo __imp_glutInitWindowPosition sin resolver
+main.obj : error LNK2001: símbolo externo __imp_glutMotionFunc sin resolver
+main.obj : error LNK2001: símbolo externo __imp_glutInitWindowSize sin resolver
+main.obj : error LNK2001: símbolo externo __imp_glutSwapBuffers sin resolver
+C:\Users\denis\Desktop\Practica_Final_Denis_Gudiña_Nuñez\BubbleTrouble\x64\Release\BubbleTrouble.exe : fatal error LNK1120: 16 externos sin resolver
